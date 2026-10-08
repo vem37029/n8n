@@ -167,7 +167,7 @@
     "samlify": "2.9.0",
     "semver": "7.5.4",
     "shelljs": "0.8.5",
-    "simple-git": "3.17.0",
+    "simple-git": "4.0.1",
     "source-map-support": "0.5.21",
     "sqlite3": "5.1.7",
     "sshpk": "1.17.0",
