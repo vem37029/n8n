@@ -14,7 +14,7 @@ catalog:
   '@types/lodash': ^4.14.195
   '@types/uuid': ^10.0.0
   '@types/xml2js': ^0.4.14
-  axios: 1.8.3
+  axios: 1.20.0
   basic-auth: 2.0.1
   callsites: 3.1.0
   chokidar: 4.0.1
@@ -54,7 +54,7 @@ catalogs:
     '@sentry/vue': ^8.33.1
     typescript: ^5.8.2
     vite: ^6.2.0
-    vitest: ^3.0.7
+    vitest: ^5.0.5
     vitest-mock-extended: ^3.0.1
     vue: ^3.5.13
     vue-router: ^4.5.0
